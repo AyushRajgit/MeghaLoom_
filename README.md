@@ -26,8 +26,8 @@ It is deployed live on **Vercel** for easy access across devices.
 ## 📦 Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/AyushRajgit/megha-loom.git
-cd megha-loom
+git clone https://github.com/AyushRajgit/MeghaLoom_.git
+cd MeghaLoom_
 
 # Install dependencies
 npm install
