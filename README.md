@@ -3,7 +3,7 @@
 **Megha Loom** is a sleek, responsive weather application built using **React** and styled with **Tailwind CSS**, designed to deliver real-time weather updates in a minimalist UI. 🌤️  
 It is deployed live on **Vercel** for easy access across devices.
 
-🔗[Live Demo]([https://megha-loom.vercel.app/]) 
+🌐 [Live Demo](https://megha-loom.vercel.app/) 
 
 
 ## 🚀 Features
